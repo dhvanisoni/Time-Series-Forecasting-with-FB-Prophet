@@ -1,1 +1,3 @@
-## Prediction of Sales - Time-Series-Forecasting-with-FB-Prophet
+## Prediction for bike sharing daily dataset
+
+**Problem statement** : Predication of bike rental count hourly or daily based on the environmental and seasonalsettings.
